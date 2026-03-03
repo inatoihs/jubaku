@@ -1,0 +1,18 @@
+# JUBAKU 評価用パッケージ
+# 共通
+tqdm
+
+# API モデル評価 (scripts/evaluate.py)
+openai
+anthropic
+
+# HuggingFace transformers 評価 (scripts/evaluate.py)
+transformers
+torch
+accelerate
+sentencepiece
+protobuf
+tiktoken
+
+# vLLM 評価 (scripts/evaluate.py)
+# vllm  # GPU 環境に合わせて別途インストールしてください
