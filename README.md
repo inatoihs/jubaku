@@ -1,4 +1,4 @@
-# JUBAKU: Japanese Unconscious Bias Assessment for Knowledge Understanding
+# JUBAKU: Japanese cUlture adversarial BiAs benchmarK Underhandcrafted creation
 
 JUBAKU は、大規模言語モデル（LLM）の**社会的バイアスを評価する**日本語ベンチマークです。  
 宗教・民族・ジェンダー等の観点を含む対話シナリオに対して、モデルがバイアスのない適切な応答を選択できるかを 2 択形式で測定します。
